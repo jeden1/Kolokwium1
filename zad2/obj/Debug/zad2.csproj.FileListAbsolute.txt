@@ -1,0 +1,6 @@
+E:\Mateusz\source\repos\Kolokwium1\zad2\bin\Debug\zad2.exe.config
+E:\Mateusz\source\repos\Kolokwium1\zad2\bin\Debug\zad2.exe
+E:\Mateusz\source\repos\Kolokwium1\zad2\bin\Debug\zad2.pdb
+E:\Mateusz\source\repos\Kolokwium1\zad2\obj\Debug\zad2.csproj.CoreCompileInputs.cache
+E:\Mateusz\source\repos\Kolokwium1\zad2\obj\Debug\zad2.exe
+E:\Mateusz\source\repos\Kolokwium1\zad2\obj\Debug\zad2.pdb

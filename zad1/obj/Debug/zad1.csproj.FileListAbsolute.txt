@@ -1,0 +1,7 @@
+E:\Mateusz\source\repos\Kolokwium1\zad1\bin\Debug\zad1.exe.config
+E:\Mateusz\source\repos\Kolokwium1\zad1\bin\Debug\zad1.exe
+E:\Mateusz\source\repos\Kolokwium1\zad1\bin\Debug\zad1.pdb
+E:\Mateusz\source\repos\Kolokwium1\zad1\obj\Debug\zad1.csprojAssemblyReference.cache
+E:\Mateusz\source\repos\Kolokwium1\zad1\obj\Debug\zad1.csproj.CoreCompileInputs.cache
+E:\Mateusz\source\repos\Kolokwium1\zad1\obj\Debug\zad1.exe
+E:\Mateusz\source\repos\Kolokwium1\zad1\obj\Debug\zad1.pdb
